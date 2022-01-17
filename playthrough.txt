@@ -1,0 +1,35 @@
+>take phone
+>examine phone
+>talk to suzuha
+>take dollar
+>take another dollar
+>down
+>take lightsaber
+>take stun gun
+>examine lightsaber
+>take key
+>up
+>get into time machine
+>time travel to july 28th
+>unlock door
+>in
+>down
+>down
+>use gashapon machine
+>use gashapon machine
+>up
+>east
+>talk to kurisu
+>talk to kurisu's dad
+>hit kurisu's dad
+>swap upa
+>take knife
+>scare kurisu's dad away
+>stun kurisu
+>use lightsaber
+>up
+>west
+>up
+>out
+>get into time machine
+>check timeline (end game)
