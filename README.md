@@ -7,7 +7,7 @@ This game named [*Stein;Gate*](https://store.steampowered.com/app/412830/STEINSG
 1.   The death of Kurisu, your lover and the time machine theory founder
 2.   The coming World War III triggered by the invention of time machine
 
-In our game, we focuse on the last part of the story. That is, you should travel back to a month ago to 
+In our game, we focus on the last part of the story. That is, you should travel back to a month ago to 
 
 1.   Save your lover (Kurisu) by deceiving the world
 
