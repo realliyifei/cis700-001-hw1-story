@@ -2,11 +2,11 @@
   <img src="images/stein_gate.png">
 </h1>
 
-# My Game - Stein;Gate
+# My Game - Steins;Gate
 
 ## Game Description
 
-This game named [*Stein;Gate*](https://store.steampowered.com/app/412830/STEINSGATE/), derived from [the famous anime with the same name](https://en.wikipedia.org/wiki/Steins;Gate_(TV_series)). It begins with a rag-tag band of tech-savvy young students who discover the methods of changing the past via mail, using a modified microwave. Later, you (Rintaro) and your teammates are involved into a seires of tasks and consequences, including 
+This game named [*Steins;Gate*](https://store.steampowered.com/app/412830/STEINSGATE/), derived from [the famous anime with the same name](https://en.wikipedia.org/wiki/Steins;Gate_(TV_series)). It begins with a rag-tag band of tech-savvy young students who discover the methods of changing the past via mail, using a modified microwave. Later, you (Rintaro) and your teammates are involved into a seires of tasks and consequences, including 
 
 1.   The death of Kurisu, your lover and the time machine theory founder
 2.   The coming World War III triggered by the invention of time machine
