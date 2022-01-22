@@ -17,7 +17,7 @@ In our game, we focus on the last part of the story. That is, you should travel 
 
 2.   Destroy the time machine paper taken by Kurisu's father to avoid Word War III
 
-Your different action will lead to different timeline! There're 4 timelines waiting for you to explore!
+Your different action will lead to different timeline! There're **4 timelines** waiting for you to explore!
 
 ## Why to Choose This Topic
 
