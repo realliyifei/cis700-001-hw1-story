@@ -1,10 +1,13 @@
 <h1 align="center">
   <img src="images/stein_gate.png">
 </h1>
-
 # My Game - Steins;Gate
 
-## Game Description
+* [notebook](my_game_with_pixray.ipynb)
+* [roadmap](my_game_visual.pdf)
+* [playthrough](playthrough.txt) ([detailed version](playthrough_with_description.txt)) 
+
+##  Game Description
 
 This game named [*Steins;Gate*](https://store.steampowered.com/app/412830/STEINSGATE/), derived from [the famous anime with the same name](https://en.wikipedia.org/wiki/Steins;Gate_(TV_series)). It begins with a rag-tag band of tech-savvy young students who discover the methods of changing the past via mail, using a modified microwave. Later, you (Rintaro) and your teammates are involved into a seires of tasks and consequences, including 
 
@@ -18,8 +21,6 @@ In our game, we focus on the last part of the story. That is, you should travel 
 2.   Destroy the time machine paper taken by Kurisu's father to avoid Word War III
 
 Your different action will lead to different timeline! There're **4 timelines** waiting for you to explore!
-
-You can find the roadmap [here](my_game_visual.pdf) and playthrough [here](playthrough.txt).
 
 ## Demo
 
