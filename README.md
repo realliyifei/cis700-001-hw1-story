@@ -18,3 +18,7 @@ Your different action will lead to different timeline! There're 4 timelines wait
 ## Why to Choose This Topic
 
 Time travel is a funny and timeless sci-fi topic, and it can trigger different endings (both happy ending and bad ending) by differenct implemetation. It's quite challenging yet interesting to adapt the in-class interactive text game into a new time travel game.
+
+## Image Directory
+
+The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray).

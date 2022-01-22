@@ -1,0 +1,158 @@
+You are standing on the roof. Your watch shows Aug 21.
+
+Exits: Down, Get into time machine
+You see: 
+Suzuha Amane
+	 talk to suzuha
+a phone
+a dollar
+another dollar
+>take phone
+You take the phone.
+>examine phone
+ON THE PHONE, YOU CAN SEE A NEWS PLAYING. A MIDDLE-AGE TIME MACHINE SCIENTIST SURVIVED AN AIRPLANE CRASH.
+ HIS TIME MACHINE PAPER LUCKILY SURVIVED BECAUSE A METAL UPA (A SMALL TOY FROM GASHAPON MACHINE) IN HIS FOLDER WAS DETECTED AT THE SECURITY CHECK.
+>talk to suzuha
+Suzuha says, 'Kurisu is a genius scientist. You saw her in a blood pool on July 28th.
+If you want to save her and change what has happened, you need to save her without changing what you yourself saw on that day.
+Or else you will fail.
+Remember how much you love her? Go deceive the world and save her!'
+>take dollar
+You take the dollar.
+>take another dollar
+You take the another dollar.
+>down
+A lab, a foundation
+There's image path but cannot show the image.
+Exits: Up
+You see: 
+a lightsaber
+a stun gun
+a key
+>take lightsaber
+You take the lightsaber.
+>take stun gun
+You take the stun gun.
+>examine lightsaber
+A LIGHTSABER FILLED WITH RED FLUID
+>take key
+You take the key.
+>up
+You are standing on the roof. Your watch shows Aug 21.
+<Figure size 640x480 with 0 Axes>
+
+Exits: Down, Get into time machine
+You see: 
+Suzuha Amane
+	 talk to suzuha
+>get into time machine
+The time machine invented by Kurisu.
+There's image path but cannot show the image.
+Exits: Time travel to august 21st, Time travel to july 28th
+You see: 
+a time line checker
+	 check timeline (end game)
+>time travel to july 28th
+You are standing on the roof. Your watch shows Jul 28.
+<Figure size 640x480 with 0 Axes>
+
+Exits: Get into time machine, In
+You see: 
+a locked door
+	 unlock door
+>unlock door
+You unlock the door with the key.
+The door opens into a landing with a few more stairs.
+>in
+You're walking in the stair. It's a bit dark here.
+Exits: Out, Down
+>down
+You are in the 8th floor.
+
+Exits: Up, Down, East
+>down
+You are in the 7th floor.
+
+Exits: Up
+You see: 
+a gashapon machine whose next upa is metal
+	 use gashapon machine
+>use gashapon machine
+You paid one dollar.
+The next upa in the machine is metal
+Now you have metal upa.
+The next upa in the machine is plastic
+>use gashapon machine
+You paid one dollar.
+Now you have plastic upa.
+>inventory
+You have: a phone, a lightsaber, a stun gun, a key, a metal upa, a green plastic upa
+>up
+You are in the 8th floor.
+
+Exits: Up, Down, East
+>east
+A storage room, dark and wet. Kurisu's dad pushs Kurisu and grabs a folder that contains Kurisu's paper about time machine from her. He waves a knife and threatens to kill Kurisu.
+
+Exits: West
+You see: 
+Kurisu Makise
+	 talk to kurisu
+	 stun kurisu
+	 use lightsaber
+Kurisu's dad
+	 hit kurisu's dad
+	 stab kurisu's dad
+	 scare kurisu's dad away
+	 swap upa
+	 talk to kurisu's dad
+>talk to kurisu
+Kurisu replies, 'You're the person I saw just now. Why are you here?'
+>talk to kurisu's dad
+Kurisu's dad replies, 'Oh the two of you are trying to conspire something against me!'
+>hit kurisu's dad
+You hit Kurisu's dad and his knife drops. You want to take the knife. 
+After you have the knife, you can STAB KURISU'S DAD or SCARE KURISU'S DAD AWAY.
+>swap upa
+You put your plastic upa in his folder.
+
+You put the metal upa taken from the folder into your pocket.
+>take knife
+You take the knife.
+>scare kurisu's dad away
+You waves the knife towards Kurisu's dad and he runs away.
+>stun kurisu
+'Hmmm....'
+Kurisu lies down on the floor.
+>use lightsaber
+You open the lightsaber and pour red liquid inside onto her.
+Kurisu soaks in the red liquid, as if she is soaked in blood.
+You fake Kurisu's death and save her!
+
+
+>up
+You can't go Up from here.
+>west
+You are in the 8th floor.
+
+Exits: Up, Down, East
+>up
+You're walking in the stair. It's a bit dark here.
+Exits: Out, Down
+>out
+You are standing on the roof. Your watch shows Jul 28.
+
+Exits: Get into time machine, In
+You see: 
+an unlocked door
+>get into time machine
+The time machine invented by Kurisu.
+There's image path but cannot show the image.
+Exits: Time travel to august 21st, Time travel to july 28th
+You see: 
+a time line checker
+	 check timeline (end game)
+>check timeline (end game)
+You activate the Steins Gate Timeline successfully! El Psy Kongroo!
+THE GAME HAS ENDED.
+<Figure size 640x480 with 0 Axes>
