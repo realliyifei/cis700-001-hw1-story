@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="images/stein_gate.png">
+</h1>
 # My Game - Stein;Gate
 
 ## Game Description
@@ -22,3 +25,21 @@ Time travel is a funny and timeless sci-fi topic, and it can trigger different e
 ## Image Directory
 
 The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray).
+
+## Demo
+
+### Demo 1 - Anime Style
+
+<h1 align="center">
+  <img src="demo/demo_anime.jpg" width="400">
+</h1>
+### Demo 2 - Clipdraw Style
+
+<h1 align="center">
+  <img src="demo/demo_clipdraw.jpg" width="400">
+</h1>
+### Demo 3 - Pixel Style
+
+<h1 align="center">
+  <img src="demo/demo_pixel.jpg" width="400">
+</h1>
