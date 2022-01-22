@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="images/stein_gate.png">
 </h1>
+
 # My Game - Stein;Gate
 
 ## Game Description
@@ -22,22 +23,24 @@ Your different action will lead to different timeline! There're 4 timelines wait
 
 Time travel is a funny and timeless sci-fi topic, and it can trigger different endings (both happy ending and bad ending) by differenct implemetation. It's quite challenging yet interesting to adapt the in-class interactive text game into a new time travel game.
 
-## Image Directory
+## Demo
+
+You can find the roadmap [here](my_game_visual.pdf). 
 
 The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray).
-
-## Demo
 
 ### Demo 1 - Anime Style
 
 <h1 align="center">
   <img src="demo/demo_anime.jpg" width="400">
 </h1>
+
 ### Demo 2 - Clipdraw Style
 
 <h1 align="center">
   <img src="demo/demo_clipdraw.jpg" width="400">
 </h1>
+
 ### Demo 3 - Pixel Style
 
 <h1 align="center">
