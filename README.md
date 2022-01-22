@@ -19,13 +19,9 @@ In our game, we focus on the last part of the story. That is, you should travel 
 
 Your different action will lead to different timeline! There're **4 timelines** waiting for you to explore!
 
-## Why to Choose This Topic
-
-Time travel is a funny and timeless sci-fi topic, and it can trigger different endings (both happy ending and bad ending) by differenct implemetation. It's quite challenging yet interesting to adapt the in-class interactive text game into a new time travel game.
+You can find the roadmap [here](my_game_visual.pdf) and playthrough [here](playthrough.txt).
 
 ## Demo
-
-You can find the roadmap [here](my_game_visual.pdf). 
 
 The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray).
 
@@ -46,3 +42,7 @@ The game can generate [the images of location and item](./images) by the selecte
 <h1 align="center">
   <img src="demo/demo_pixel.jpg" width="400">
 </h1>
+
+## Why to Choose This Topic
+
+Time travel is a funny and timeless sci-fi topic, and it can trigger different endings (both happy ending and bad ending) by differenct implemetation. It's quite challenging yet interesting to adapt the in-class interactive text game into a new time travel game.
