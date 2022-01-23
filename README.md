@@ -22,9 +22,17 @@ In our game, we focus on the last part of the story. That is, you should travel 
 
 Your different action will lead to different timeline! There're **4 timelines** waiting for you to explore!
 
+## About Pixray 
+
+The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray). 
+
+We  generate the images of location and item by given different art styles (`drawer`) and prompt. Specifically, as for the prompt engineering, we follow the [official instruction](https://dazhizhong.gitbook.io/pixray-docs/docs/primary-settings) and weight the objects by importance during simultaneous prompting. We also try to avoid unwanted objects by setting negative weight with early stop. Both techniques work. Finally, we use two art styles, namely `pixel` and `clipdraw`, to render the images successfully. 
+
+For more detail, see  [this notebook](pixray_location_item.ipynb).
+
 ## Demo
 
-The game can generate [the images of location and item](./images) by the selected art style from [pixray](https://github.com/pixray/pixray).
+In this game, the location and stationary items will pop out once you arrive at that location. The accessible items will show when you check your inventory in the game.
 
 ### Demo 1 - Anime Style
 
