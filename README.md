@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="images/stein_gate.png">
 </h1>
+
 # My Game - Steins;Gate
 
 * [notebook](my_game_with_pixray.ipynb)
