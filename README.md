@@ -4,6 +4,8 @@
 
 # My Game - Steins;Gate
 
+Course: CIS 700 Interactive Fiction and Text Generation. Advisors Prof. Chris Callison-Burch and Dr. Lara Martin.
+
 * [notebook](my_game_with_pixray.ipynb)
 * [roadmap](my_game_visual.pdf)
 * [playthrough](playthrough.txt) ([detailed version](playthrough_with_description.txt)) 
